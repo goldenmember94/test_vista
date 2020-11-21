@@ -1,0 +1,20 @@
+.TableList {
+  display: flex;
+  text-align: left;
+}
+
+.TableList__paragraph {
+  flex-grow: 1;
+  padding: 20px;
+  text-align: left;
+}
+
+.TableList__paragraph:hover {
+  cursor: pointer;
+}
+
+.active {
+  background: rgb(229, 226, 226);
+  color: rgb(51, 153, 255);
+  font-weight: 600;
+}

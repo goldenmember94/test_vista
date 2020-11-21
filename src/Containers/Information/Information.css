@@ -1,0 +1,25 @@
+.Information {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  border: 1px solid gray;
+  border-radius: 5px;
+  margin: 10px 0px 10px 10px;
+}
+
+.Information__nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background: rgb(51, 153, 255);
+  color: white;
+  font-weight: 600;
+}
+
+.Information__options {
+  padding: 10px 10px 0 10px;
+}
+
+.bold {
+  font-weight: 600;
+}

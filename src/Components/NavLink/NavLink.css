@@ -1,0 +1,12 @@
+.NavLink {
+  padding: 10px;
+  font-weight: 600;
+}
+
+.NavLink:hover {
+  cursor: pointer;
+}
+
+.active {
+  color: rgb(51, 153, 255);
+}

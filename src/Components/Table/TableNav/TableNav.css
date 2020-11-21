@@ -1,0 +1,12 @@
+.TableNav {
+  display: flex;
+  padding: 10px;
+  font-weight: 600;
+}
+
+.TableNav__paragraph {
+  flex-grow: 1;
+  padding: 10px;
+  text-align: left;
+}
+
